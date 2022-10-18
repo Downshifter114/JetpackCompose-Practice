@@ -1,4 +1,4 @@
-package com.android.example.jetpackcompose_practice.practice_files
+package com.android.example.jetpackcompose_practice.practice_files.general
 
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable

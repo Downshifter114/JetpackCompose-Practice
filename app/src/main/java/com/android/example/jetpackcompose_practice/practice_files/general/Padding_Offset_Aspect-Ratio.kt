@@ -1,8 +1,7 @@
-package com.android.example.jetpackcompose_practice.practice_files
+package com.android.example.jetpackcompose_practice.practice_files.general
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.material.Surface
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier

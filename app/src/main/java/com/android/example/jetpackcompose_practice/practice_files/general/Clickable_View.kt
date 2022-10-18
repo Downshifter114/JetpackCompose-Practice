@@ -1,4 +1,4 @@
-package com.android.example.jetpackcompose_practice.practice_files
+package com.android.example.jetpackcompose_practice.practice_files.general
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Column
